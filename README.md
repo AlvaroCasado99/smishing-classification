@@ -1,9 +1,9 @@
 # smishing-classification
 
-Este proyecto implementa un modelo de detección de smishing (phishing por SMS) utilizando la biblioteca SimpleTransformers. El código está diseñado para ejecutarse en un entorno Python y procesar datos de SMS para tareas de clasificación.
+Este proyecto implementa un modelo de clasificación de smishing (phishing por SMS) utilizando la biblioteca SimpleTransformers. El código está diseñado para ejecutarse en un entorno Python y procesar datos de SMS para tareas de clasificación.
 
 ## Características
-- Detecta mensajes de smishing utilizando modelos de transformadores preentrenados.
+- Clasifica mensajes de smishing utilizando modelos de transformadores preentrenados.
 - Configurable para utilizar aceleración por GPU con CUDA.
 - Soporta la carga y procesamiento de conjuntos de datos de SMS para clasificación binaria.
 
