@@ -56,9 +56,9 @@ El proyecto espera un conjunto de datos de SMS con el siguiente formato:
 
 | text                |   label  |
 |---------------------|----------|
-| "Este es un mensaje de prueba." | 0        |
-| "¡Has ganado un premio!"       | 1        |
+| "Este es un mensaje de prueba." | Bank    |
+| "¡Has ganado un premio!"       | Delivery |
 
-Reemplaza `etiqueta` con valores binarios (`0` para no smishing, `1` para smishing).
+
 
 
